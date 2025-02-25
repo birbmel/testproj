@@ -5,6 +5,12 @@
 
 **Bold Text** *Italic*  ~~Strikethrough~~ 
 ***Bold AND Italic*** 
+Sub<sub>script</sub>
+super<sup>script</sup>
+<ins>underlined</ins>
+
+>quoted text
+highlight then type 
 
 hello
 read me
